@@ -1,0 +1,15 @@
+{
+  "name": "CyderEyesX Token List",
+  "timestamp": "2025-12-14T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x95B476d930380a638D431969A730e43692fd6434",
+      "name": "CYX Learning Token",
+      "symbol": "CYX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CyderEyesX/cyx-assets/main/cyx.png"
+    }
+  ]
+}
